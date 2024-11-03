@@ -14,12 +14,20 @@ Cross-Device Compatibility: Fully compatible across all mobile devices and deskt
 offering a consistent experience for all users................................................💗
 
 
-![Home](https://github.com/user-attachments/assets/848ca700-e43c-4332-b263-3d9017c7271c)
+![homepage](https://github.com/user-attachments/assets/66092a99-39ad-4fea-bd9a-4f8690ae3d87)
 
-![aboutpage](https://github.com/user-attachments/assets/5ad0b180-a9dc-4eff-b5da-7bbb725f2b8f)
 
-![Experience](https://github.com/user-attachments/assets/17446c06-3922-4fc0-8f0d-9edbfe9015af)
+![aboutpage2](https://github.com/user-attachments/assets/bf1f20bb-c7d2-41cf-ae7e-59ad30d5067e)
 
-![skill](https://github.com/user-attachments/assets/79367091-da85-4c53-b22c-afade6130361)
 
-![contact](https://github.com/user-attachments/assets/988a159b-0f90-4215-bf29-ab78f08eba88)
+![education ](https://github.com/user-attachments/assets/9c3fa61c-e5aa-4995-b1ab-d8c152d98b27)
+
+
+![experiencepage ](https://github.com/user-attachments/assets/cea5eefb-fa5e-46ac-bbbb-5c40275314ba)
+
+
+![skillspage](https://github.com/user-attachments/assets/1be3a4a5-257a-4016-bf3b-d745f5bf7f3b)
+
+
+![contactpage](https://github.com/user-attachments/assets/05e0e7c2-e0ee-4058-aab4-c7c15ba71924)
+
