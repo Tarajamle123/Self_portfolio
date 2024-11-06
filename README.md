@@ -1,17 +1,12 @@
 # Self_portfolio
 
-Responsive Personal Portfolio Website
 
-A modern and responsive personal portfolio website developed using HTML, CSS, and JavaScript.
+A modern, responsive personal portfolio website- built with HTML, CSS, and JavaScript.
 
-Smooth Scrolling: Provides a seamless experience with smooth scrolling for each section.
-
-Mobile-First Approach: Designed with a mobile-first approach, then optimized for desktop, ensuring great usability on all devices.
-
-User-Friendly Interface: Features a clean, user-friendly interface that is both visually appealing and functional.
-
-Cross-Device Compatibility: Fully compatible across all mobile devices and desktop browsers,
-offering a consistent experience for all users................................................💗
+Smooth Scrolling: Enjoy a seamless navigation experience across sections.
+Mobile-First Design: Prioritized for mobile use, then optimized for desktop to ensure perfect usability on all devices.
+User-Friendly Interface: Features an intuitive and clean design, combining aesthetics with functionality.
+Cross-Device Compatibility: Fully responsive, providing a consistent experience across all devices and browsers.
 
 
 ![homepage](https://github.com/user-attachments/assets/66092a99-39ad-4fea-bd9a-4f8690ae3d87)
